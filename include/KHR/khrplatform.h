@@ -5,11 +5,6 @@
 #   define KHRONOS_STATIC 1
 #endif
 
-/*-------------------------------------------------------------------------
- * Definition of KHRONOS_APICALL
- *-------------------------------------------------------------------------
- * This precedes the return type of the function in the function prototype.
- */
 #if defined(KHRONOS_STATIC)
     /* If the preprocessor constant KHRONOS_STATIC is defined, make the
      * header compatible with static linking. */
