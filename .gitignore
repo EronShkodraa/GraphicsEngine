@@ -1,0 +1,18 @@
+# Compiled executable
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.dll
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
